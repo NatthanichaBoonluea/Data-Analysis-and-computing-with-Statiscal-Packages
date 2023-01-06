@@ -1,4 +1,4 @@
-# Data-Analysis-and-computing-with-Statiscal-Packages
+# ST376 Data-Analysis-and-computing-with-Statiscal-Packages
 course of my program in university
 
 1. Using SPSS
